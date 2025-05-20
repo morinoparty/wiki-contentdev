@@ -1,0 +1,8 @@
+{
+  "name": "morinopartywiki-api-dev",
+  "compatibility_date": "2025-05-20",
+  "assets": {
+    "directory": "./content",
+    "binding": "ASSETS",
+  },
+}
