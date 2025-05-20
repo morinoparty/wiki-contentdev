@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VSCode
+.vscode/
+.history/
+
+# 環境変数や設定ファイル
+.env
+.env.*
+
+# ビルド成果物
+dist/
+build/
+out/
+
+# テストカバレッジ
+coverage/
+
+# ログファイル
+*.log
+
+# その他
+.idea/
+*.swp
+*.swo
