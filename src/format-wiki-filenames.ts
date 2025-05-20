@@ -12,15 +12,17 @@ const WIKI_DIR = path.join(__dirname, "../content/wiki");
  * 文字列をURLとして読める形（小文字・記号正規化）に変換する
  */
 function toUrlSlug(str: string): string {
-  return str
-    .normalize('NFKC')
-    .replace(/[Ａ-Ｚａ-ｚ０-９]/g, s => String.fromCharCode(s.charCodeAt(0) - 0xFEE0)) // 全角英数字→半角
-    .replace(/\s+/g, '-') // 空白→ハイフン
-    .replace(/[\u3000]/g, '-') // 全角スペース→ハイフン
-    .replace(/[^\p{L}\p{N}_-]+/gu, '-') // 日本語・英数字・アンダースコア・ハイフン以外→ハイフン
-    .replace(/--+/g, '-') // ハイフン連続→1つ
-    .replace(/^-+|-+$/g, '') // 先頭・末尾ハイフン除去
-    .toLowerCase();
+  // encodeURIComponentで日本語もURLセーフに
+  return encodeURIComponent(
+    str
+      .normalize('NFKC')
+      .replace(/[Ａ-Ｚａ-ｚ０-９]/g, s => String.fromCharCode(s.charCodeAt(0) - 0xFEE0)) // 全角英数字→半角
+      .replace(/\s+/g, '-') // 空白→ハイフン
+      .replace(/[\u3000]/g, '-') // 全角スペース→ハイフン
+      .replace(/--+/g, '-') // ハイフン連続→1つ
+      .replace(/^-+|-+$/g, '') // 先頭・末尾ハイフン除去
+      .toLowerCase()
+  );
 }
 
 /**
