@@ -1,0 +1,18 @@
+{
+  "name": "wiki-contentdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate:lists": "pnpm exec tsx src/generate-lists.ts",
+    "start": "pnpm run generate:lists",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  }
+}
