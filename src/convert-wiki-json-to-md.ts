@@ -5,24 +5,25 @@ import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// 変換元と変換先のディレクトリ
-const WIKI_JSON_DIR = path.join(__dirname, "../content/wiki");
-const WIKI_MD_DIR = path.join(__dirname, "../content/wiki-md");
+// 変換元ディレクトリ（md化されたjsonファイルが入っている）
+const WIKI_MD_DIR = path.join(__dirname, "../content/wiki");
 
 // 変換処理
 function convertWikiJsonToMd() {
-  if (!fs.existsSync(WIKI_MD_DIR)) {
-    fs.mkdirSync(WIKI_MD_DIR);
-  }
-
   const files = fs
-    .readdirSync(WIKI_JSON_DIR)
-    .filter((f) => f.endsWith(".json"));
+    .readdirSync(WIKI_MD_DIR)
+    .filter((f) => f.endsWith(".md"));
 
   files.forEach((file) => {
-    const filePath = path.join(WIKI_JSON_DIR, file);
+    const filePath = path.join(WIKI_MD_DIR, file);
     const raw = fs.readFileSync(filePath, "utf-8");
-    const json = JSON.parse(raw);
+    let json;
+    try {
+      json = JSON.parse(raw);
+    } catch (e) {
+      console.error(`Skip: ${file} (not a JSON)`);
+      return;
+    }
 
     // frontmatter用にmetaを抽出
     const { date, title, slug, description, category, image } = json;
@@ -48,10 +49,8 @@ function convertWikiJsonToMd() {
     );
 
     const md = matter.stringify(body, frontmatter);
-    const mdFileName = `${slug || path.basename(file, ".json")}.md`;
-    const mdFilePath = path.join(WIKI_MD_DIR, mdFileName);
-    fs.writeFileSync(mdFilePath, md, "utf-8");
-    console.log(`Converted: ${file} -> ${mdFileName}`);
+    fs.writeFileSync(filePath, md, "utf-8");
+    console.log(`Converted: ${file}`);
   });
 }
 
