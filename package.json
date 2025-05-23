@@ -7,6 +7,7 @@
   "scripts": {
     "generate:lists": "pnpm exec tsx src/generate-lists.ts",
     "format:wiki-filenames": "pnpm exec tsx src/format-wiki-filenames.ts",
+    "convert:wiki-json-to-md": "pnpm exec tsx src/convert-wiki-json-to-md.ts",
     "start": "pnpm run generate:lists",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "tsx": "^4.7.0"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
   }
 }
