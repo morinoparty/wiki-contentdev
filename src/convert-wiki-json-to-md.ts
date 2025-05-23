@@ -5,10 +5,9 @@ import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// 変換元ディレクトリ（md化されたjsonファイルが入っている）
+// /content/wiki ディレクトリ内の .md ファイル（中身はjson）を frontmatter 形式の md にインプレース変換
 const WIKI_MD_DIR = path.join(__dirname, "../content/wiki");
 
-// 変換処理
 function convertWikiJsonToMd() {
   const files = fs.readdirSync(WIKI_MD_DIR).filter((f) => f.endsWith(".md"));
 
@@ -19,21 +18,17 @@ function convertWikiJsonToMd() {
     try {
       json = JSON.parse(raw);
     } catch (e) {
+      // JSONでなければスキップ
       console.error(`Skip: ${file} (not a JSON)`);
       return;
     }
-
     // frontmatter用にmetaを抽出
     const { date, title, slug, description, category, image } = json;
     const body = json.body || "";
-
-    // 画像パスの整形（必要に応じて）
     let imagePath = image;
     if (imagePath && imagePath.startsWith("/img/")) {
       imagePath = imagePath.replace("/img/", "../img/");
     }
-
-    // undefined値を除外したfrontmatterを生成
     const frontmatterRaw = {
       date,
       title,
@@ -45,7 +40,6 @@ function convertWikiJsonToMd() {
     const frontmatter = Object.fromEntries(
       Object.entries(frontmatterRaw).filter(([_, v]) => v !== undefined)
     );
-
     const md = matter.stringify(body, frontmatter);
     fs.writeFileSync(filePath, md, "utf-8");
     console.log(`Converted: ${file}`);
