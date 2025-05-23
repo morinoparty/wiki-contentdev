@@ -31,3 +31,7 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+
+/content/categories.json
+/content/images.json
+/content/wiki.json
