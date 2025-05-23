@@ -26,8 +26,11 @@ for jsonfile in "$WIKI_JSON_DIR"/*.json; do
   git mv "$jsonfile" "$mdfile"
 done
 
+git add "$WIKI_JSON_DIR"/*.md
+git commit -m "migrate: json→mdリネーム（slug正規化）"
+
 # 2. frontmatter形式mdに変換
 pnpm exec tsx ./src/convert-wiki-json-to-md.ts
 
-# 3. 変換後のmdファイルをgit管理下に追加（コミットはしない）
 git add "$WIKI_JSON_DIR"/*.md
+git commit -m "migrate: frontmatter形式mdへ変換（in-place）"
