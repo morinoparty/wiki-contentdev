@@ -10,9 +10,7 @@ const WIKI_MD_DIR = path.join(__dirname, "../content/wiki");
 
 // 変換処理
 function convertWikiJsonToMd() {
-  const files = fs
-    .readdirSync(WIKI_MD_DIR)
-    .filter((f) => f.endsWith(".md"));
+  const files = fs.readdirSync(WIKI_MD_DIR).filter((f) => f.endsWith(".md"));
 
   files.forEach((file) => {
     const filePath = path.join(WIKI_MD_DIR, file);
