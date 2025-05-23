@@ -7,11 +7,17 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const CONTENT_DIR = path.join(__dirname, "../content");
-const IMAGES_DIR = path.join(CONTENT_DIR, "images");
+const IMAGES_DIR = path.join(CONTENT_DIR, "img");
 const CATEGORIES_DIR = path.join(CONTENT_DIR, "categories");
 const WIKI_DIR = path.join(CONTENT_DIR, "wiki");
 
 async function generateImagesList() {
+  // ディレクトリがなければ作成
+  try {
+    await fs.access(IMAGES_DIR);
+  } catch (e) {
+    await fs.mkdir(IMAGES_DIR, { recursive: true });
+  }
   const files = await fs.readdir(IMAGES_DIR);
   // 画像ファイルのみ抽出
   const images = files.filter((f) => !f.startsWith("."));
