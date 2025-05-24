@@ -8,7 +8,7 @@ category: 投稿
 覚書
 
 ```
-<a id="XXXX"> text </a> 
+a id="XXXX"  text  
 ```
 = aタグ作成( id名 に # 使わない)  ( href は きかない？)
 
@@ -18,7 +18,7 @@ markdown で ----  = 水平線
 
 文章中に  
 ```
-<span style="color: XXX"> text </span>
+ text 
 ```
 で文字色変更  
 
@@ -27,21 +27,21 @@ color:XXXの部分は red 、 blue 、 yellow …等[](http://www.netyasun.com/h
 [参照](http://www.netyasun.com/home/color.html)
 
 ```
-<span style="background:XXX; color:X;">背景色＋文字色</span>
+背景色＋文字色
 ```
 
 ```
-<p style="border: 4px solid XXX;">枠線の色</p>
+枠線の色
 ```
 
 中央揃え =  
 ```
-<center> 文章 </center> 
+ 文章  
 ```
 
 左揃え =  
 ```
-<div align="right"> 文章 </div>
+ 文章
 ```
 
 ---
@@ -168,13 +168,11 @@ color:XXXの部分は red 、 blue 、 yellow …等[](http://www.netyasun.com/h
 
 そ
 
-<details><summary>クリックすると展開されます</summary>
+クリックすると展開されます
 
 あ
 い
 う
-
-</details>
 
 ↑  
 ↑
