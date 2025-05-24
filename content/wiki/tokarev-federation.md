@@ -7,22 +7,18 @@ category: 観光、案内
 image: ../img/tokarev-federation-bank.png
 ---
 
-
 **トカレフ連邦へようこそ！**
 
 ## トカレフ連邦とは
 
-2024 年 5 月頃、トカレフ氏（\_Tokarev）により、x3000 z-2000 あたりを中心に大規模な整地が行われ、開発をスタート。
+2024 年 5 月頃、トカレフ氏（_Tokarev）により、x3000 z-2000 あたりを中心に大規模な整地が行われ、開発をスタート。
 
 開拓メンバーの増員や工業力の発展により、わずか数日で巨大建築が建ち並ぶ、大都市へと急成長を遂げています。
 
-<dl>
-  <dt>何をする団体なの？</dt>
-  <dd>基本的に所有している街の開拓、自分の家の建設などです！</dd>
-  <dt>どうすれば入れますか？</dt>
-  <dd>メンバーの偉い人に相談してみましょう！</dd>
-  <dt></dt>
-</dl>
+何をする団体なの？  
+基本的に所有している街の開拓、自分の家の建設などです！  
+どうすれば入れますか？  
+メンバーの偉い人に相談してみましょう！
 
 ## 主な建築
 
@@ -35,8 +31,6 @@ image: ../img/tokarev-federation-bank.png
 1 階部分には開拓メンバーによりデザインされたステンドグラスがはめられており、全体マップや開拓メンバーによる掲示板が設置されています。
 
 ### 住宅街
-
-<!-- ![](/img/tokarev-federation-residential-area.png) -->
 
 駅から東側は住民により建築された住宅街が広がります。
 
@@ -54,7 +48,7 @@ image: ../img/tokarev-federation-bank.png
 
 ![](/img/tokarev-federation-development.png)
 
-そこから南下すると開拓メンバーの活動拠点があります。
+そこから南下すると開拓メンバーの活動拠点があります。  
 開拓メンバーには食料、ロケット花火、ポーションが無料配布されます。
 
 ※開拓メンバーになるには厳選なる審査があります。
@@ -77,52 +71,33 @@ image: ../img/tokarev-federation-bank.png
 
 ## 主な住人
 
-<div class="user">
-  <!-- もりぱ wiki の style に詳細度負け -->
-  <img style="width:32px; height:32px; margin:0; transform:none; image-rendering:pixelated;" src="https://narumincho-minecraft.deno.dev/skin?uuid=e6f63da248754a6a9915928fc9d29381">
-  _Tokarev
-</div>
-
+![ _Tokarev](https://narumincho-minecraft.deno.dev/skin?uuid=e6f63da248754a6a9915928fc9d29381)  
+_Tokarev  
 トカレフ連邦書記長
 
-<div class="user">
-  <img style="width:32px; height:32px; margin:0; transform:none; image-rendering:pixelated;" src="https://narumincho-minecraft.deno.dev/skin?uuid=4945bdbfa96b45e1914e5d9b59856387">
-  Asasimo
-</div>
-
+![ Asasimo](https://narumincho-minecraft.deno.dev/skin?uuid=4945bdbfa96b45e1914e5d9b59856387)  
+Asasimo  
 数多くの近代建築を主導
 
-<div class="user">
-  <img style="width:32px; height:32px; margin:0; transform:none; image-rendering:pixelated;" src="https://narumincho-minecraft.deno.dev/skin?uuid=ed73b427af364327883183d33d89b33f">
-  NatsumikanNa
-</div>
-
+![ NatsumikanNa](https://narumincho-minecraft.deno.dev/skin?uuid=ed73b427af364327883183d33d89b33f)  
+NatsumikanNa  
 ジブリ関連の建築
 
-<div class="user">
-  <img style="width:32px; height:32px; margin:0; transform:none; image-rendering:pixelated;" src="https://narumincho-minecraft.deno.dev/skin?uuid=d3b3783bf09b4c3486d2c4494feef22a">
-  ShiroqRi
-</div>
-
+![ ShiroqRi](https://narumincho-minecraft.deno.dev/skin?uuid=d3b3783bf09b4c3486d2c4494feef22a)  
+ShiroqRi  
 疾風のごとく巨大建築をこなす
 
-<div class="user">
-  <img style="width:32px; height:32px; margin:0; transform:none; image-rendering:pixelated;" src="https://narumincho-minecraft.deno.dev/skin?uuid=fde84dac74a44a5782f94e8fe8113223">
-  Tsubumame1
-</div>
-
+![ Tsubumame1](https://narumincho-minecraft.deno.dev/skin?uuid=fde84dac74a44a5782f94e8fe8113223)  
+Tsubumame1  
 カジノの仕掛けを構築
 
-<div class="user">
-  <img style="width:32px; height:32px; margin:0; transform:none; image-rendering:pixelated;" src="https://narumincho-minecraft.deno.dev/skin?uuid=5d55d36a9eaa4978a18f455f354640f6">
-  narumincho
-</div>
-
+![ narumincho](https://narumincho-minecraft.deno.dev/skin?uuid=5d55d36a9eaa4978a18f455f354640f6)  
+narumincho  
 謎解き建築を計画中
 
 ## 来訪する方法
 
-<iframe width="100%" style="aspect-ratio: 1" src="https://seikatsumain.map.morino.party/#minecraft_overworld;flat;3449,64,-2029;2"></iframe>
+https://seikatsumain.map.morino.party/#minecraft_overworld;flat;3449,64,-2029;2
 
 ### 景観と安全性重視
 
@@ -158,14 +133,6 @@ Z=-250 のところで「とかれふれんぽう! こっち ←」と書かれ�
 
 ## 編集者
 
-narumincho, \_Tokarev, NatsumikanNa
+narumincho, _Tokarev, NatsumikanNa
 
 最終更新日 2024/10/04
-
-<style>
-  .user {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-</style>

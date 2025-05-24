@@ -13,57 +13,44 @@ image: ../img/gozigozigozi.png
 ゴジゴジ村とはEnderman_goziが作った海上都市です。
 うみもとから近いのでアクセス性はかなり良いです。
 周辺には別荘や塔、飛行機のオブジェなどの綺麗な建築もあれば豆腐建築もあるなど多種多様な建築が沢山あります。
-現在、村長はnichijou_に交代しましたが継続して運営されています。
-
-<br>
-
+現在、村長はnichijou_に交代しましたが継続して運営されています。  
+ 
 ### ゴジゴジ村へのアクセス方法
 
 **↓ゴジゴジ村へのアクセス方法↓**
 
-☆準備中です☆
-
-<br>
-
+☆準備中です☆  
+ 
 ## ゴジゴジ村のルール
 
-**1.<span style="color: red; ">もりぱのルールを守る。</span>**
-**2.<span style="color: #0000FF; ">景観保護のため、不要なエンティティを作らない。</span>**※保護されていない場合は許可なく村長が撤去いたします。
-
-<br>
-
+**1.もりぱのルールを守る。**  
+**2.景観保護のため、不要なエンティティを作らない。**※保護されていない場合は許可なく村長が撤去いたします。  
+ 
 ## 住人になる方法
 
-住人になりたい方はルールを理解したうえでdiscordで<strong>nichijou_/naganohara_mio</strong>へご連絡ください。
-尚、discord垢を持っていない方は `/mail send nichijou_ ゴジゴジ村の住人になりたいです。`と送ってください。
-
-<br>
-
+住人になりたい方はルールを理解したうえでdiscordで**nichijou_/naganohara_mio**へご連絡ください。
+尚、discord垢を持っていない方は `/mail send nichijou_ ゴジゴジ村の住人になりたいです。`と送ってください。  
+ 
 ### ゴジゴジ村の空き状況
 
-> 
-> ﻿**ゴジゴジ本島<span style="color: red; ">△**
-> ﻿![ゴジゴジ本島](/img/gozimuraa2.png)
-> ﻿**ゴジゴジ離島<span style="color: #0000FF; ">◎**
-> ﻿﻿![ゴジゴジ離島](/img/gozimuraa3.png)
-
-<br>
-
+> ﻿**ゴジゴジ本島△**  
+> ﻿![ゴジゴジ本島](/img/gozimuraa2.png)  
+> ﻿**ゴジゴジ離島◎**  
+> ﻿﻿![ゴジゴジ離島](/img/gozimuraa3.png)  
+ 
 ## さいごに
 
 ゴジゴジ村は海に囲まれてとても景色が綺麗な村です。
 住人になりたい方はもちろん、観光も大歓迎なので是非来てください！
 
-まだwikiは中途半端な状態ですが順次更新していくのでしばらくお待ちください。
-
-<br>
-
-- - -
+まだwikiは中途半端な状態ですが順次更新していくのでしばらくお待ちください。  
+ 
+--- 
 
 **村長のリンク集**
 
-[<span style="color: red; ">YouTube](https://www.youtube.com/@AioiYuko)
-[<span style="color: #82AADF; ">Twitter](https://twitter.com/yakisoba_saba)
+[YouTube](https://www.youtube.com/@AioiYuko)  
+[Twitter](https://twitter.com/yakisoba_saba)  
 
 **旧ゴジゴジ村公式サイト**
 

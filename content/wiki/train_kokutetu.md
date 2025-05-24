@@ -6,7 +6,6 @@ description: 国鉄はサバ民の血税によるクリーンなシステムで�
 category: 観光、案内
 image: ../img/2020-05-01_14.04.58.png
 ---
-<a id="目次"> </a>
 
 # 目次
 
@@ -27,37 +26,14 @@ image: ../img/2020-05-01_14.04.58.png
 * [うみもと貞治城駅](#うみもと貞治城駅)
 * [雪華郷駅](#雪華郷)
 
-- - -
+---
 
-<a id="もりもと"></a> <br>
+# もりもと
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th bgcolor="#32CD32"> </th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th><center><span style="color: gray; ">雲丹ヶ丘入口</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-    <tr>
-      <th><center><span style="color: gray; ">フォレストピア西</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> もりもと <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">も り も と 東</span></center></th>
-    </tr>
-    <tr>
-      <th bgcolor="#32CD32"> </th>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th><center><span style="color: gray; ">中央フォレストピア</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-  </table>
-</body>
-</center>
+|   | ↑ | 雲丹ヶ丘入口 | ↑ |   |
+| --- | --- | --- | --- | --- |
+| フォレストピア西 | ← | → もりもと ← | → | も り も と 東 |
+|   | ↓ | 中央フォレストピア | ↓ |   |
 
 #### はじまりの都市「森元」
 
@@ -67,30 +43,19 @@ image: ../img/2020-05-01_14.04.58.png
 
 > 関連駅:森元森林鉄道(森元駅) 徒歩1分圏内
 
-2019/6/20　駅としての着工開始（駅舎は管理人やひろ氏の友人のものを改装）[](https://wiki.morino.party/train)\
+2019/6/20　駅としての着工開始（駅舎は管理人やひろ氏の友人のものを改装）[](https://wiki.morino.party/train)  
 2019/６～７月　フォレストピア西~もりもと間、雲丹ヶ丘行き路線等増設為、地下２階までの改装
 
 [路線図へ戻る](https://wiki.morino.party/train)
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="フォレストピア西"></a> <br>
+# フォレストピア西
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">中央フォレストピア</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> フォレストピア西 <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">も り も と</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| 中央フォレストピア | ← | → フォレストピア西 ← | → | も り も と |
+| --- | --- | --- | --- | --- |
 
 #### ニュータウン「フォレストピア西」
 
@@ -102,7 +67,7 @@ image: ../img/2020-05-01_14.04.58.png
 
 駅付近にはお店が意外とあるのをご存じかな？！
 
-スポンジを取り扱ってる数少ない店もあるぞ。\
+スポンジを取り扱ってる数少ない店もあるぞ。  
 駅の西側をみると、ガ○ダムも見える。
 
 2020/5/10より　アドミン鉱石買取りショップが駅から東に徒歩１０秒くらいの所に
@@ -111,30 +76,13 @@ image: ../img/2020-05-01_14.04.58.png
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="中央フォレストピア"> </a> <br>
+# 中央フォレストピア
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th bgcolor="#32CD32"> </th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th><center><span style="color: gray; ">も　り　も　と</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-    <tr>
-      <th><center><span style="color: gray; ">フォレストピア西</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> 中央フォレストピア <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">東フォレストピア</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+|   | ↑ | も　り　も　と | ↑ |   |
+| --- | --- | --- | --- | --- |
+| フォレストピア西 | ← | → 中央フォレストピア ← | → | 東フォレストピア |
 
 #### つりのめいしょすぐ近く「中央フォレストピア」
 
@@ -150,30 +98,19 @@ image: ../img/2020-05-01_14.04.58.png
 
 2019/6/22、21時3分：乗り場完成、開通　
 
-当時モデレーターであったNamiu氏を親方として数名での電撃工事。\
+当時モデレーターであったNamiu氏を親方として数名での電撃工事。  
 既に土地開発されていた地上を避け、通路の地下に地下鉄として 鉄道工事をし、もりもと～東フォレストピアを6/20～6/23の約４日で完成させた。
 
 [路線図へ戻る](https://wiki.morino.party/train)
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="東フォレストピア"> </a> <br>
+# 東フォレストピア
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">中央フォレストピア</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> 東フォレストピア <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; "><i class="fas fa-ban"></i></span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| 中央フォレストピア | ← | → 東フォレストピア ← | → |  |
+| --- | --- | --- | --- | --- |
 
 #### ひがし？あずま？「東フォレストピア」
 
@@ -185,9 +122,9 @@ image: ../img/2020-05-01_14.04.58.png
 
 #### ＜ディスコード　宣伝＆募集＞より抜粋　2019/06/26
 
-東フォレストピア駅の向かい側にゆっちゃーの鉱石店がオープンしました！\
-かなりお手頃な価格で各鉱石が売られているので必見！！\
- オーナーは@yucchar/ゆっちゃーさんです！　 店舗所在地 : x -370 z 100
+東フォレストピア駅の向かい側にゆっちゃーの鉱石店がオープンしました！  
+かなりお手頃な価格で各鉱石が売られているので必見！！  
+オーナーは@yucchar/ゆっちゃーさんです！　 店舗所在地 : x -370 z 100
 
 2020/4月には近くにチャペルが作られた。
 
@@ -195,23 +132,12 @@ image: ../img/2020-05-01_14.04.58.png
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="もりもと東"> </a> <br>
+# もりもと東
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">もりもと</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　もりもと東　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">東もりもと</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| もりもと | ← | →　もりもと東　← | → | 東もりもと |
+| --- | --- | --- | --- | --- |
 
 ![](/img/もりもと東.png)
 
@@ -227,23 +153,12 @@ syou1770 さんが運営している特大ショッピングセンター
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="東もりもと"> </a> <br>
+# 東もりもと
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">もりもと東</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　東もりもと　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">フォレストピア新町</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| もりもと東 | ← | →　東もりもと　← | → | フォレストピア新町 |
+| --- | --- | --- | --- | --- |
 
 ![](/img/東もりもと.png)
 
@@ -253,23 +168,12 @@ syou1770 さんが運営している特大ショッピングセンター
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="フォレストピア新町"> </a> <br>
+# フォレストピア新町
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">もりもと東</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　フォレストピア新町　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">森が丘駅</i></span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| もりもと東 | ← | →　フォレストピア新町　← | → | 森が丘駅 |
+| --- | --- | --- | --- | --- |
 
 ![](/img/2020-06-02_20.11.34.png)
 
@@ -285,33 +189,14 @@ syou1770 さんが運営している特大ショッピングセンター
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="森が丘駅"> </a> <br>
+# 森が丘駅
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th><center><span style="color: gray; ">東フォレストピア</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-    <tr>
-      <th><center> <i class="fas fa-angle-right"></i> 森が丘駅 <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">フォレストピア新町</span></center></th>
-    </tr>
-    <tr>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th><center><span style="color: gray; ">？？？</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-  </table>
-</body>
-</center>
+| ↑ | 東フォレストピア | ↑ |   |
+| --- | --- | --- | --- |
+| → 森が丘駅 ← | → | フォレストピア新町 |
+| ↓ | ？？？ | ↓ |   |
 
 森が丘駅、もりパの鉄道を一つに繋ぐターミナル。
 
@@ -323,31 +208,13 @@ FM鉄道:あつもり駅
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="雲丹ヶ丘入口"> </a> <br>
+# 雲丹ヶ丘入口
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th bgcolor="#32CD32"> </th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th><center><span style="color: gray; ">雲丹ヶ丘大橋駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-    <tr>
-      <th><center><span style="color: gray; ">もりもと</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　雲丹ヶ丘入口　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">雲丹ヶ丘水族館前</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
+|   | ↑ | 雲丹ヶ丘大橋駅 | ↑ |   |
+| --- | --- | --- | --- | --- |
+| もりもと | ← | →　雲丹ヶ丘入口　← | → | 雲丹ヶ丘水族館前 |
 
 ![](/img/雲丹ヶ丘入口.png)
 
@@ -357,24 +224,12 @@ FM鉄道:あつもり駅
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="雲丹ヶ丘水族館前"> </a> <br>
+# 雲丹ヶ丘水族館前
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘入口</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　雲丹ヶ丘水族館前　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">betaエリア前</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
+| 雲丹ヶ丘入口 | ← | →　雲丹ヶ丘水族館前　← | → | betaエリア前 |
+| --- | --- | --- | --- | --- |
 
 ![](/img/雲丹ヶ丘水族館前.png)
 
@@ -386,24 +241,12 @@ FM鉄道:あつもり駅
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="betaエリア前"> </a> <br>
+# betaエリア前
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘水族館前</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　betaエリア前　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">さざなみ駅</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
+| 雲丹ヶ丘水族館前 | ← | →　betaエリア前　← | → | さざなみ駅 |
+| --- | --- | --- | --- | --- |
 
 ![](/img/betaエリア前.png)
 
@@ -413,253 +256,12 @@ FM鉄道:あつもり駅
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="さざなみ駅"> </a> <br>
+# さざなみ駅
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">betaエリア前</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> さざなみ駅 <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; "><i class="fas fa-ban"></i></span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
-!\\\\\\[](/img/さざなみ駅.png)
-﻿
-追記お願いします。
-﻿
-\\\\\\[路線図へ戻る](https://wiki.morino.party/train)
-﻿
-\\\\\\[↑目次へ↑](#目次)
-﻿
-- - -
-﻿
-<a id="雲丹ヶ丘大橋駅"> </a> <br>
-﻿
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘入口</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> 雲丹ヶ丘大橋駅 <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもと</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
-!\\\\\\[](/img/雲丹ヶ丘大橋駅.png)
-﻿
-追記お願いします。
-﻿
-\\\\\\[路線図へ戻る](https://wiki.morino.party/train)
-﻿
-\\\\\\[↑目次へ↑](#目次)
-﻿
-- - -
-﻿
-<a id="うみもと"> </a> <br>
-﻿
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘大橋駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> うみもと <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもとうだい駅</span></center></th>
-    </tr>
-    <tr>
-      <th bgcolor="#32CD32"> </th>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th><center><span style="color: gray; ">うみもと貞治駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
-!\\\\\\[](/img/うみもと.png)
-﻿
-追記お願いします。
-﻿
-\\\\\\[路線図へ戻る](https://wiki.morino.party/train)
-﻿
-\\\\\\[↑目次へ↑](#目次)
-﻿
-- - -
-﻿
-<a id="うみもとうだい駅"> </a> <br>
-﻿
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">うみもと</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　うみもとうだい駅　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもと貞治駅</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
-!\\\\\\[](/img/うみもとうだい駅.png)
-﻿
-追記お願いします。
-﻿
-\\\\\\[路線図へ戻る](https://wiki.morino.party/train)
-﻿
-\\\\\\[↑目次へ↑](#目次)
-﻿
-- - -
-﻿
-<a id="うみもと貞治城駅"> </a> <br>
-﻿
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">うみもとうだい駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　うみもと貞治駅　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもと</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-﻿
-!\\\\\\[](/img/うみもと貞治城駅.png)
-﻿
-追記お願いします。
-﻿
-note: 写真再撮影
-﻿
-\\\\\\[路線図へ戻る](https://wiki.morino.party/train)
-﻿
-\\\\\\[↑目次へ↑](#目次)
-﻿
-- - -
-
-[路線図へ戻る](https://wiki.morino.party/train)
-
-[↑目次へ↑](#目次)
-
-- - -
-
-<a id="雲丹ヶ丘入口"> </a> <br>
-
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th bgcolor="#32CD32"> </th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th><center><span style="color: gray; ">雲丹ヶ丘大橋駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-up"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-    <tr>
-      <th><center><span style="color: gray; ">もりもと</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　雲丹ヶ丘入口　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">雲丹ヶ丘水族館前</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-
-![](/img/雲丹ヶ丘入口.png)
-
-追記お願いします。
-
-[路線図へ戻る](https://wiki.morino.party/train)
-
-[↑目次へ↑](#目次)
-
-- - -
-
-<a id="雲丹ヶ丘水族館前"> </a> <br>
-
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘入口</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　雲丹ヶ丘水族館前　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">betaエリア前</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-
-![](/img/雲丹ヶ丘水族館前.png)
-
-追記お願いします。
-
-[路線図へ戻る](https://wiki.morino.party/train)
-
-[↑目次へ↑](#目次)
-
-- - -
-
-<a id="betaエリア前"> </a> <br>
-
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘水族館前</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　betaエリア前　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">さざなみ駅</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-
-![](/img/betaエリア前.png)
-
-追記お願いします。
-
-[路線図へ戻る](https://wiki.morino.party/train)
-
-[↑目次へ↑](#目次)
-
-- - -
-
-<a id="さざなみ駅"> </a> <br>
-
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">betaエリア前</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> さざなみ駅 <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; "><i class="fas fa-ban"></i></span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| betaエリア前 | ← | → さざなみ駅 ← | → |  |
+| --- | --- | --- | --- | --- |
 
 ![](/img/さざなみ駅.png)
 
@@ -669,25 +271,12 @@ note: 写真再撮影
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="雲丹ヶ丘大橋駅"> </a> <br>
+# 雲丹ヶ丘大橋駅
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘入口</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> 雲丹ヶ丘大橋駅 <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもと</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
-| \\\\\\\\\*\\\\\\\\\*雲丹ヶ丘入口\\\\\\\\\*\\\\\\\\\* | ←─● | \\\\\\\\\*\\\\\\\\\*▶雲丹ヶ丘大橋駅◀\\\\\\\\\*\\\\\\\\\* | ●─→ | \\\\\\\\\*\\\\\\\\\*うみもと\\\\\\\\\*\\\\\\\\\* |
-| ---------- | --- | ------------- | --- | -------- |
+| 雲丹ヶ丘入口 | ← | → 雲丹ヶ丘大橋駅 ← | → | うみもと |
+| --- | --- | --- | --- | --- |
 
 ![](/img/雲丹ヶ丘大橋駅.png)
 
@@ -697,30 +286,13 @@ note: 写真再撮影
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="うみもと"> </a> <br>
+# うみもと
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">雲丹ヶ丘大橋駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> うみもと <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもとうだい駅</span></center></th>
-    </tr>
-    <tr>
-      <th bgcolor="#32CD32"> </th>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th><center><span style="color: gray; ">うみもと貞治駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-down"></i> </th>
-      <th bgcolor="#32CD32"> </th>
-    </tr>
-  </table>
-</body>
-</center>
+| 雲丹ヶ丘大橋駅 | ← | → うみもと ← | → | うみもとうだい駅 |
+| --- | --- | --- | --- | --- |
+|   | ↓ | うみもと貞治駅 | ↓ |   |
 
 ![](/img/うみもと.png)
 
@@ -730,23 +302,12 @@ note: 写真再撮影
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="うみもとうだい駅"> </a> <br>
+# うみもとうだい駅
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">うみもと</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　うみもとうだい駅　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもと貞治駅</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| うみもと | ← | →　うみもとうだい駅　← | → | うみもと貞治駅 |
+| --- | --- | --- | --- | --- |
 
 ![](/img/うみもとうだい駅.png)
 
@@ -756,23 +317,12 @@ note: 写真再撮影
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
-<a id="うみもと貞治城駅"> </a> <br>
+# うみもと貞治城駅
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">うみもとうだい駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i>　うみもと貞治駅　<i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; ">うみもと</span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| うみもとうだい駅 | ← | →　うみもと貞治駅　← | → | うみもと |
+| --- | --- | --- | --- | --- |
 
 ![](/img/うみもと貞治城駅.png)
 
@@ -784,29 +334,18 @@ note: 写真再撮影
 
 [↑目次へ↑](#目次)
 
-- - -
+---
 
 #### ワールド北西地図
 
 ![](/img/もりパ北西地図.png "ワールド北西地図")
 
-- - -
+---
 
-<a id="雪華郷"> </a> <br>
+# 雪華郷
 
-<center>
-<body>
- <table border="5"bordercolor="#32CD32">
-    <tr>
-      <th><center><span style="color: gray; ">クリスタルビーチ駅</span></center></th>
-      <th> <i class="fas fa-arrow-alt-circle-left"></i> </th>
-      <th><center> <i class="fas fa-angle-right"></i> 雪華郷 <i class="fas fa-angle-left"></i> </center></th>
-      <th> <i class="fas fa-arrow-alt-circle-right"></i> </th>
-      <th><center><span style="color: gray; "><i class="fas fa-ban"></i></span></center></th>
-    </tr>
-  </table>
-</body>
-</center>
+| クリスタルビーチ駅 | ← | → 雪華郷 ← | → |  |
+| --- | --- | --- | --- | --- |
 
 #### 現状国鉄最北駅「雪華郷」
 
@@ -816,7 +355,7 @@ note: 写真再撮影
 
 正式名称（かな）：せっかきょう
 
-鉄道は『迷大鉄道』という路線。駅は国営。
+鉄道は『迷大鉄道』という路線。駅は国営。  
 2023/6月終点の「雪華郷」まで全線開通
 
 国鉄は、これより西に一駅出来る予定。
@@ -825,4 +364,4 @@ note: 写真再撮影
 
 [↑目次へ↑](#目次)
 
-- - -
+---

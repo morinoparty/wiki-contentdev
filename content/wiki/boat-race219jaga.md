@@ -12,43 +12,30 @@ image: ../img/ボートレース宣伝.png
 
 ### 　**★目次★**
 
-<!--StartFragment-->
+・開催日
 
-<a href="#kaisaibi">・開催日</a>
+・ルール
 
-<a href="#ru-ru">・ルール</a>
+・景品
 
-<a href="#keihin">・景品</a>
+・注意
 
-<a href="#tyuui">・注意</a>
+・その他
 
-<a href="#sonota">・その他</a>
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-<a id="kaisaibi"><h3>★開催日★</h3></a>
-
-<!--EndFragment-->
+### ★開催日★
 
 **2020/07/26/17:00**
 
-<!--StartFragment-->
+### ★ルール★
 
-<a id="ru-ru"><h3>★ルール★</h3></a>
-
-<!--EndFragment-->
-
-\
-\
-・参加方法は、会場(700 64 -1047くらい)にある受付と書いてあるホッパーに\
-　自身のユーザーネームを書いた紙を入れるだけ。\
-　(おじさんでもわかるくらい簡単だったわ)\
-　なお現地で作成可能。\
-・受付は当日の**PM1:30**から**PM4:30**で行います。\
-・ 試合はトーナメント方式でおこなう。\
-\
+  
+・参加方法は、会場(700 64 -1047くらい)にある受付と書いてあるホッパーに  
+　自身のユーザーネームを書いた紙を入れるだけ。  
+　(おじさんでもわかるくらい簡単だったわ)  
+　なお現地で作成可能。  
+・受付は当日の**PM1:30**から**PM4:30**で行います。  
+・ 試合はトーナメント方式でおこなう。  
+　
 ●なお組み合わせ等は当日wikiに貼る。
 
 ![](/img/第四回ボートレース　リーグ.png)
@@ -67,11 +54,7 @@ image: ../img/ボートレース宣伝.png
 
 ※1　参加プレイヤーでチャンクの読み込みスピードが遅れる恐れがあるためその場合は小さいほうを使用する。
 
-<!--StartFragment-->
-
-<a id="keihin"><h3>★景品★</h3></a>
-
-<!--EndFragment-->
+### ★景品★
 
 一位　30000(もりぱ)円
 
@@ -85,11 +68,7 @@ image: ../img/ボートレース宣伝.png
 
 ![](/img/2020-04-05_17.57.05.png)
 
-<!--StartFragment-->
-
-<a id="tyuui"><h1>**注意**</h1></a>
-
-<!--EndFragment-->
+# **注意**
 
 大切であると思ったためでっかくしたお。
 
@@ -101,20 +80,10 @@ image: ../img/ボートレース宣伝.png
 
 ・第三回大会においてトラブルがあり延期になったこともあり、ボートレース大会は人が集中する恐れがあり(嬉しいようなつらいような...)またdos攻撃の可能性も0ではありません。そのため、万が一大会中にトラブルがあった場合40分後に再開するとし、30分間のもりぱのアクセスを控えることをお願いします。アクセス数を減らすことにより復旧を早く行うことができるかもしれません。なお19時すぎても復旧しない場合中止または延期とします。
 
-<!--StartFragment-->
-
-<a id="sonota"><h3>その他</h3></a>
-
-<!--EndFragment-->
+### その他
 
 [もりぱYouTubeチャンネル](https://www.youtube.com/channel/UC5huN7nu_9RJKB-rPk8Z0hQ)
 
 [予告pv](https://www.youtube.com/watch?v=lS2TodU-m20&feature=youtu.be)
-
-<!--StartFragment-->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lS2TodU-m20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--EndFragment-->
 
 2020/07/12 kara0509

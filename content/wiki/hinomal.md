@@ -6,15 +6,15 @@ description: ～ひのまる拠点の紹介～
 category: 投稿
 image: ../img/hinomal-1.png
 ---
+
 [[toc]]!
 
 ## ■はじめに
 
 もりパでの遊びの選択肢を一つ増やす！をモットーに
 
-一般プレイヤー「hinomal」の活動紹介ページです。
-
-<br/>
+一般プレイヤー「hinomal」の活動紹介ページです。  
+  
 
 ## ■ひのまる拠点マップ
 
@@ -30,8 +30,7 @@ image: ../img/hinomal-1.png
 
 ![](/img/hinomal-honkuji1.png "すごくすごい「ほんくじ」")
 
-<br/>
-
+  
 ## ■日の丸商店
 
 コンクリート、パウダー全種（１６種類）の販売をしております。
@@ -68,8 +67,7 @@ image: ../img/hinomal-1.png
 
 ![](/img/hinomal-shop1.png "とうふの地下２階にあります。見学大歓迎！")
 
-<br/>
-
+  
 ## ■アップルストア
 
 店内でジョブズ（お仕事）をご紹介しています。
@@ -165,8 +163,7 @@ image: ../img/hinomal-1.png
 
 随時、必要に応じて募集します。
 
-<br/>
-
+  
 ## ■コロシアム
 
 令和３年末に、コロシアムが完成しました（長い道のりだった・・・）。
@@ -179,8 +176,7 @@ image: ../img/hinomal-1.png
 
 ![](/img/hinomal-coliseum0.png "多くの私の血を吸って、とうとう完成しました・・・")
 
-<br/>
-
+  
 ## ■お知らせ
 
 ### youtubeにもりパ動画のアップロードを始めました
@@ -205,8 +201,7 @@ https://www.youtube.com/channel/UCVhHSHXObwIu1iofHfUK6pA/videos
 
 ![](/img/hinomal-info1.png "「樽」は、チェストよりもサーバ環境(ＦＰＳ)に優しい。")
 
-<br/>
-
+  
 ## ■アクセス（ひのまる拠点への行き方）
 
 #### トロッコから行く場合
@@ -219,8 +214,7 @@ https://www.youtube.com/channel/UCVhHSHXObwIu1iofHfUK6pA/videos
 
 ![](/img/hinomal-info2.png "ひのまる拠点へのトロッコ")
 
-<br/>
-
+  
 #### 道路から行く場合
 
 最近作っていただいたネザーの道路から向かう場合は、「Ｅ３」を目指してください！
@@ -231,15 +225,16 @@ https://www.youtube.com/channel/UCVhHSHXObwIu1iofHfUK6pA/videos
 
 ![](/img/hinomal-info3.png "道路、かたじけない・・・")
 
-<br/>
-
+  
 ## ■最後に
 
 「hinomal」保護内で、不正と十分に判断できる行動をしたプレイヤーには、
 
 保護内の権限を全て無効にします（にっこり）。
 
-<br/><br/><br/>\
+  
+  
+  
 更新日：２０２２年０１月０９日
 
 更新者：hinomal

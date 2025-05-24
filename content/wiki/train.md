@@ -6,26 +6,8 @@ description: 線路は続くよ
 category: 観光、案内
 image: ../img/train_header_low.png
 ---
-<html>
-	<head>
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
-        <script type="text/javascript" src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
-<script type="text/javascript" src="https://waynegm.github.io/imgViewer2/lib/imgViewer2.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
-</head>
-<body>
-                <img  id="image1" src="/img/もりパ路線図.jpg" width="800px" />
-<script type="text/javascript">
-    (function($) {
-	    $(document).ready(function(){
-	    	$("#image1").imgViewer2();
-        });
-    })(jQuery);
-</script>
-</body>
-</html>
+
+![image1](/img/もりパ路線図.jpg)
 
 [画像が拡大されない場合...クリック](https://wiki.morino.party/train/)
 
@@ -33,7 +15,7 @@ image: ../img/train_header_low.png
 
 作成日:2020/05/01(作成)
 
-- - -
+---
 
 > # 各駅案内:
 
@@ -46,8 +28,6 @@ image: ../img/train_header_low.png
 * [遠野森林鉄道、白華村鉄道](#遠野森林鉄道)
 * [FM鉄道](#FM鉄道)
 * [その他](#その他)
-
- <a id="国鉄"> </a> 
 
 #### [国鉄:](https://wiki.morino.party/train_kokutetu/)
 
@@ -68,8 +48,6 @@ image: ../img/train_header_low.png
 * [森が丘駅](https://wiki.morino.party/train_kokutetu/)
 * [雪華郷駅](https://wiki.morino.party/train_kokutetu/)
 
-<a id="森元森林鉄道"> </a>
-
 #### [森元森林鉄道](https://wiki.morino.party/train_hutago1/):
 
 * 森元駅
@@ -80,27 +58,17 @@ image: ../img/train_header_low.png
 * 秦帝国駅
 * 火花村駅
 
-<a id="もりもと郊外鉄道"> </a>
-
 #### もりもと郊外鉄道:
 
 * フォレストピア新町
 * debu村駅
 
-<a id="kara鉄道"> </a>
-
-<!--StartFragment-->
-
-<a href="https://wiki.morino.party/train_kara"><h3>kara鉄道:</h3></a>
-
-<!--EndFragment-->
+[ kara鉄道:](https://wiki.morino.party/train_kara)
 
 * [雪菜高原駅](https://wiki.morino.party/train_kara/#雪菜高原)
 * [白河駅](https://wiki.morino.party/train_kara/#白河)
 * [佐藤駅](https://wiki.morino.party/train_kara/#佐藤)
 * [囲碁村駅](https://wiki.morino.party/train_kara/#囲碁村)
-
-<a id="遠野森林鉄道"> </a>
 
 #### 遠野森林鉄道、白華村鉄道:
 
@@ -109,16 +77,12 @@ image: ../img/train_header_low.png
 * AFC村駅
 * 白華村駅
 
-<a id="FM鉄道"> </a>
-
 #### FM鉄道:
 
 * あつもり駅
 * FM村駅
 * 氷山前駅
 * 空島駅
-
-<a id="その他"> </a>
 
 #### その他:
 

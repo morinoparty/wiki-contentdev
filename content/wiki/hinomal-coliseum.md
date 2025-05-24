@@ -16,8 +16,7 @@ image: ../img/hinomal-coliseum0.png
 
 みんなで血で血を洗う時間を過ごせれば、うれしいです (　´∀｀)σ)∀`)
 
-<br/>
-
+  
 ## ■Apix  - carrot -
 
 （エイピッグス - キャロット -）
@@ -84,7 +83,8 @@ image: ../img/hinomal-coliseum0.png
 
 ![](/img/hinomal-coliseum1-2.png "優勝者は「mer_y」さん！")
 
-<br/><br/>
+  
+  
 更新日：２０２２年０１月２３日
 
 更新者：hinomal
