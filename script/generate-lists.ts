@@ -63,9 +63,12 @@ async function generateWikiList() {
     if (file.endsWith(".md")) {
       const data = await fs.readFile(path.join(WIKI_DIR, file), "utf-8");
       const { data: frontmatter } = matter(data);
+      if (!frontmatter.slug) {
+        console.log(`slugがありません: ${file}`);
+      }
       wikiList.push({
         title: frontmatter.title,
-        slug: toUrlSlug(frontmatter.slug),
+        slug: toUrlSlug(frontmatter.slug ?? ""),
         date: frontmatter.date,
         description: frontmatter.description,
         category: frontmatter.category,
