@@ -9,15 +9,23 @@
     "format:wiki-filenames": "pnpm exec tsx script/format-wiki-filenames.ts",
     "convert:wiki-json-to-md": "pnpm exec tsx script/convert-wiki-json-to-md.ts",
     "start": "pnpm run generate:lists",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert:html-to-gfm": "pnpm exec tsx script/convert-html-to-gfm.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tsx": "^4.7.0"
+    "@types/node": "^22.15.21",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3"
+    "@ai-sdk/google": "^1.2.18",
+    "@ai-sdk/openai": "^1.3.22",
+    "ai": "^4.3.16",
+    "dotenv": "^16.5.0",
+    "gray-matter": "^4.0.3",
+    "zod": "^3.25.28"
   }
 }
