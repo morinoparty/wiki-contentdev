@@ -3,7 +3,7 @@ date: '2021-08-08T06:30:48.171Z'
 title: 第六回ボートレース大会 in 夏祭り杯2
 slug: barenjagajaga3
 description: じゃがいものもちもち
-category: アーカイブ
+category: archive
 image: ../img/夏祭り杯2　サムネ.png
 ---
 なんでじゃがいもってじゃがいもなんだろうね。

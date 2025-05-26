@@ -2,7 +2,7 @@
 title: ユクリパ高速鉄道
 slug: YHSR
 description: ユクリパ高速鉄道　は　ユクリパ高速鉄道株式会社（笑）が運営する鉄道である。
-category: アーカイブ
+category: archive
 image: ../img/fde902d5ecb487456776e0ead445127c.png
 ---
 ## HEY

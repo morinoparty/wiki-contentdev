@@ -3,7 +3,7 @@ date: '2020-05-10T02:02:17.971Z'
 title: redyamori氏主催　常設フリーマーケット開店！
 slug: redfree
 description: もりもと東でフリーマーケット実施中！　お得な商品がいっぱいあるよ！　
-category: アーカイブ
+category: archive
 image: ../img/チラシ第一作.png
 ---
 # もりもと東に常設フリーマーケットがオープン！

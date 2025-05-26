@@ -3,7 +3,7 @@ date: '2021-01-05T15:02:12.268Z'
 title: LWC
 slug: lwc
 description: 大切なものを、保護しよう。
-category: アーカイブ
+category: archive
 image: ../img/lwc.jpg
 ---
 ## LWCってなに？

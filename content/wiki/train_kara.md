@@ -3,7 +3,7 @@ date: '2024-12-31T09:25:14.464Z'
 title: もじゃもじゃ温泉天空の湯　オープン
 slug: もじゃもじゃ温泉天空の湯
 description: 温泉オープン！　経営者(QnbyQByb172182)
-category: アーカイブ
+category: archive
 image: ../img/2024-12-29_14.03.09.png
 ---
 

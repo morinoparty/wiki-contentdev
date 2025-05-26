@@ -3,7 +3,7 @@ date: '2025-01-23T02:27:08.099Z'
 title: 「/trade」：トレードについて
 slug: howtotrade
 description: 離れていてもやり取りできる？！「トレード」取引
-category: アーカイブ
+category: archive
 ---
 離れていてもやり取りできる？！「トレード」取引システム。  
 コマンド/tradeで、遠隔地の相手ともやり取りできるぞ！！

@@ -3,7 +3,7 @@ date: '2022-01-01T13:26:01.773Z'
 title: ひのまる
 slug: hinomal
 description: ～ひのまる拠点の紹介～
-category: アーカイブ
+category: archive
 image: ../img/hinomal-1.png
 ---
 

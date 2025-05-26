@@ -3,7 +3,7 @@ date: '2020-08-20T08:25:19.247Z'
 title: トラップタワー（TT）まとめ
 slug: ttmatome
 description: サーバー内のトラップタワーをまとめました。
-category: アーカイブ
+category: archive
 ---
 [[toc]]
 

@@ -3,7 +3,7 @@ date: '2019-11-05T15:37:34.245Z'
 title: 第一回 サーバー主誕生祭 ( 2019.09.21 )
 slug: yanniversary
 description: 今宵は宴ぞ！我を讃えよ！崇めよ！
-category: アーカイブ
+category: archive
 ---
 ![]()
 

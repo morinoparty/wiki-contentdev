@@ -3,7 +3,7 @@ date: '2022-02-19T02:25:05.827Z'
 title: チャットについて！日本語入力の仕方など
 slug: chat
 description: 森パのゲーム内チャットについての説明です！
-category: アーカイブ
+category: archive
 image: ../img/photo-1530811761207-8d9d22f0a141.webp
 ---
 [[toc]]

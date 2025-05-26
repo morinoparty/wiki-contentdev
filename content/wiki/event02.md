@@ -3,7 +3,7 @@ date: '2019-11-05T16:05:22.009Z'
 title: 第一回 秋イベント ( 2019.10.18 ~ 2019.11.23 )
 slug: event02
 description: はろろろろ～ん
-category: アーカイブ
+category: archive
 image: ../img/hallow.png
 ---
 ![](/img/hallow.png)

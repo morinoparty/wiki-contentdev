@@ -3,7 +3,7 @@ date: '2019-11-05T13:57:26.784Z'
 title: どんぐりの稼ぎ方
 slug: money
 description: お財布、潤ってますか？
-category: アーカイブ
+category: archive
 ---
 ## 1.木こり
 

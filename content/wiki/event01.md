@@ -3,7 +3,7 @@ date: '2019-11-05T15:27:51.174Z'
 title: 第0回 夏祭り ( 2019.08.09 ~ 2019.08.11 )
 slug: event01
 description: それは、、、夢のような時間でした、、、
-category: アーカイブ
+category: archive
 ---
 ![](/img/natu.png "また来年会おう！")
 

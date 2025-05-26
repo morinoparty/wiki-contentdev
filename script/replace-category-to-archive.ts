@@ -12,8 +12,8 @@ function replaceCategoryToArchive() {
     const filePath = path.join(WIKI_DIR, file);
     const raw = fs.readFileSync(filePath, "utf-8");
     const parsed = matter(raw);
-    if (parsed.data.category !== "アーカイブ") {
-      parsed.data.category = "アーカイブ";
+    if (parsed.data.category !== "archive") {
+      parsed.data.category = "archive";
       const newContent = matter.stringify(parsed.content, parsed.data);
       fs.writeFileSync(filePath, newContent, "utf-8");
       console.log(`categoryをアーカイブに変更: ${file}`);

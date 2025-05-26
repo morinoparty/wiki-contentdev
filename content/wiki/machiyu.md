@@ -3,7 +3,7 @@ date: '2020-12-25T18:54:53.568Z'
 title: 町湯・町湯トロッコ鉄道について
 slug: machiyu
 description: 町湯のことをなんでも紹介しています☆
-category: アーカイブ
+category: archive
 image: ../img/2021-01-16_21.05.59.png
 ---
 > **町湯**

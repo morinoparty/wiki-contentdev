@@ -2,7 +2,7 @@
 title: 【終了】第五回ボートレース大会 in バレンタイン杯2 これは終了済みです
 slug: barenjagajaga2
 description: アイス・バレンジャガジャガ
-category: アーカイブ
+category: archive
 image: ../img/2020-11-07_23.58.08.png
 ---
 気づいたら2020年終わってたんで開催します！

@@ -3,7 +3,7 @@ date: '2022-07-30T06:42:38.742Z'
 title: もりパ夏祭り 2022
 slug: summerfes-2022
 description: 今年の夏はひと味違う!
-category: アーカイブ
+category: archive
 ---
 今年もやります！もりぱ夏まつり～～  
 8/5（金）～8/8（日）はもりぱで夏を感じよう(●´ω｀●)

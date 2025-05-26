@@ -3,7 +3,7 @@ date: '2020-12-23T12:29:51.242Z'
 title: もりパ村・町・国まとめ
 slug: WolrdMap
 description: 話題に上がるあの国はどこ？これを見ましょう！
-category: アーカイブ
+category: archive
 image: ../img/2021-01-06_00.29.10.png
 ---
 

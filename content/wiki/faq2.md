@@ -2,7 +2,7 @@
 title: あああ
 slug: faq2
 description: あああああ
-category: アーカイブ
+category: archive
 image: ../img/2024-08-04_22.52.26.png
 ---
 2025/5/15　入門編 チャット欄やTAB表示内容について（名前の前のアルファベッド/nについて）  

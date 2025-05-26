@@ -3,7 +3,7 @@ date: '2020-08-30T08:19:42.276Z'
 title: Première村の紹介
 slug: Premiere
 description: この村は沢山の人達の支援のお陰で完成した村です
-category: アーカイブ
+category: archive
 image: ../img/2020-08-30_17.42.18.png
 ---
 - - -

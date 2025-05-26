@@ -3,7 +3,7 @@ date: '2020-01-13T04:47:14.898Z'
 title: Homeを設定する！
 slug: home
 description: プラグインによって家にテレポートできます
-category: アーカイブ
+category: archive
 image: ../img/2019-08-20_01.11.52.png
 ---
 > ## お家に飛びたい？じゃあホームセットしようよ。

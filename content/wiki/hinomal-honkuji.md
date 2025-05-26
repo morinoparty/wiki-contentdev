@@ -3,7 +3,7 @@ date: '2023-01-08T16:39:19.644Z'
 title: ほんくじ
 slug: hinomal-honkuji
 description: ～その場で当たる！すごくすごい「ほんくじ」～
-category: アーカイブ
+category: archive
 image: ../img/hinomal-honkuji1.png
 ---
 [[toc]]!

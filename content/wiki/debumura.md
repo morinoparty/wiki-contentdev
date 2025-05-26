@@ -3,7 +3,7 @@ date: '2024-01-19T15:46:15.381Z'
 title: 第一村の紹介
 slug: debumura
 description: 第一村（旧称、debu村）とは、debuMAX氏が開発した、人口二人ほどの村です。
-category: アーカイブ
+category: archive
 ---
 第一村とは？
 第一村とはもりもと郊外鉄道の沿線開発事業として、建設された人口二人ほどの村です。管理をわたくしdebuMAXが行っています。

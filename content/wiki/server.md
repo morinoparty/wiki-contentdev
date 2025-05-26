@@ -3,7 +3,7 @@ date: '2020-12-18T16:47:02.556Z'
 title: 簡単サーバー間移動
 slug: server
 description: 資源ポータルが遠い？コマンドで行っちゃおう！
-category: アーカイブ
+category: archive
 ---
 ## 概要
 

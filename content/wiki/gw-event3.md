@@ -3,7 +3,7 @@ date: '2020-05-08T09:52:36.609Z'
 title: 第1回 GWイベント★その３★ 大釣り大会！！！(2020.5.6.Wed.20：00)
 slug: gw-event3
 description: もりパ！もうすぐ１周年のGWイベント　その名も大釣り大会！
-category: アーカイブ
+category: archive
 image: ../img/大釣り大会.png
 ---
 第1回 GWイベント★その３★ 大釣り大会！！！\

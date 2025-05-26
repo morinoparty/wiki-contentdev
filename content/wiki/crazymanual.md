@@ -3,7 +3,7 @@ date: '2019-11-05T16:50:21.279Z'
 title: 通販(Crazy Auctions)の使い方
 slug: crazymanual
 description: みなさんお待ちかね、新機能！どこでもショッピングができる、「通販機能」をご紹介いたします！
-category: アーカイブ
+category: archive
 ---
 ## Crazy Auctionsは廃止されました。通販・オークション機能は、今後一切使用出来ません。
 

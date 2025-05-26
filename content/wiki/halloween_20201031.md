@@ -3,7 +3,7 @@ date: '2020-11-21T08:51:54.851Z'
 title: Halloween仮装パーティ ( 2020.10.31 )
 slug: halloween_20201031
 description: 2020年10月のハロウィンイベントです。
-category: アーカイブ
+category: archive
 image: ../img/はろぱ！.jpg
 ---
 [[toc]]!

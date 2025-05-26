@@ -3,7 +3,7 @@ date: '2021-08-15T03:52:29.594Z'
 title: 使用禁止MOD等
 slug: bannedmods
 description: bannedmods
-category: アーカイブ
+category: archive
 ---
 # 使用禁止MOD等
 

@@ -3,7 +3,7 @@ date: '2019-11-04T10:13:24.191Z'
 title: wikiへの投稿方法
 slug: first
 description: 新しいもりぱうぃきの簡単な使い方をご紹介します！
-category: アーカイブ
+category: archive
 image: ../img/background_ap_2.png
 ---
 [[toc]]

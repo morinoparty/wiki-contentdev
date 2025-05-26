@@ -3,7 +3,7 @@ date: '2020-02-29T07:40:13.830Z'
 title: MoripaAuction（土地オークション）
 slug: MoripaAuction
 description: オークションに参加して初期スポーン地点に近い土地を入手しよう！！
-category: アーカイブ
+category: archive
 image: ../img/2020-03-02_17.37.51.png
 ---
 ## 概要

@@ -3,7 +3,7 @@ date: '2022-01-27T08:59:23.154Z'
 title: 投票ボーナス
 slug: voteinfo
 description: '投票ボーナス機能がパワーアップして帰ってきました！ '
-category: アーカイブ
+category: archive
 ---
 ## 投票ボーナス機能がパワーアップしました!!
 

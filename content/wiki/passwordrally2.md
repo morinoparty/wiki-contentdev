@@ -3,7 +3,7 @@ date: '2021-02-16T14:34:49.179Z'
 title: もりパ！第2回パスワードラリー
 slug: passwordrally2
 description: 隠れた名所めぐり
-category: アーカイブ
+category: archive
 ---
 [[toc]]
 

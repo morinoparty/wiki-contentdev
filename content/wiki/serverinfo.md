@@ -3,7 +3,7 @@ date: '2022-05-17T05:13:27.376Z'
 title: サーバー仕様
 slug: serverinfo
 description: サーバーの仕様について説明します
-category: アーカイブ
+category: archive
 ---
 # 概要
 
