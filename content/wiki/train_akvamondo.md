@@ -3,7 +3,7 @@ date: '2023-08-09T01:14:16.655Z'
 title: '鉄道案内:アクアモンド鉄道'
 slug: train_akvamondo
 description: エンドポータルを中心に広がる鉄道です。
-category: 観光、案内
+category: アーカイブ
 image: ../img/image.png
 ---
 ## アクアモンド鉄道

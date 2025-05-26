@@ -3,7 +3,7 @@ date: '2019-11-05T16:34:53.860Z'
 title: MoreFish(釣り)
 slug: mfish
 description: 森パの余暇は釣りで決まり！　知らんけど
-category: プラグイン
+category: アーカイブ
 ---
 ## 概要
 

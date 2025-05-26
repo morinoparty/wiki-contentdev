@@ -10,7 +10,8 @@
     "convert:wiki-json-to-md": "pnpm exec tsx script/convert-wiki-json-to-md.ts",
     "start": "pnpm run generate:lists",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "convert:html-to-gfm": "pnpm exec tsx script/convert-html-to-gfm.ts"
+    "convert:html-to-gfm": "pnpm exec tsx script/convert-html-to-gfm.ts",
+    "replace:category-to-archive": "pnpm exec tsx script/replace-category-to-archive.ts"
   },
   "keywords": [],
   "author": "",

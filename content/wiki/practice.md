@@ -3,7 +3,7 @@ date: '2020-04-19T03:48:27.644Z'
 title: wiki編集練習ページ
 slug: practice
 description: 文字通りの練習ページ、らくがきちょー
-category: 投稿
+category: アーカイブ
 ---
 覚書
 

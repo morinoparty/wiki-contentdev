@@ -3,7 +3,7 @@ date: '2021-08-14T08:41:10.220Z'
 title: オススメMOD
 slug: recommendedmods
 description: オススメMOD
-category: MOD・プラグイン
+category: アーカイブ
 ---
 ## オススメMOD
 

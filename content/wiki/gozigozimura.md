@@ -3,7 +3,7 @@ date: '2023-02-25T09:33:35.154Z'
 title: ゴジゴジ村の紹介
 slug: gozigozimura
 description: うみもと周辺に作られた人口30人程の人工島です。
-category: 観光、案内
+category: アーカイブ
 image: ../img/gozigozigozi.png
 ---
 [[toc]]

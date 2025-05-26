@@ -3,7 +3,7 @@ date: '2020-04-19T03:38:48.494Z'
 title: 行動ログの確認法
 slug: coreprotect
 description: CoreProtectプラグイン  == 初動捜査はご自身で ==
-category: プラグイン
+category: アーカイブ
 ---
 #### ＜概要＞
 

@@ -1,9 +1,9 @@
 ---
-date: "2024-08-25T02:13:52.740Z"
+date: '2024-08-25T02:13:52.740Z'
 title: デイリークエスト一覧
 slug: daily-quest
 description: 資源サーバーの受付嬢から受けられるデイリークエストの一覧です
-category: 投稿
+category: アーカイブ
 ---
 
 ## 概要

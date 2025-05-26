@@ -3,7 +3,7 @@ date: '2021-11-27T15:42:44.900Z'
 title: 歴代の資源サーバーさん
 slug: res-history
 description: 消えゆく資源での思い出を記録します
-category: 投稿
+category: アーカイブ
 ---
 ## 概要
 

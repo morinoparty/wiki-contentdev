@@ -3,7 +3,7 @@ date: '2020-11-28T08:48:04.103Z'
 title: イベント一覧
 slug: old-event
 description: ふるい記事はしまっちゃおうね～
-category: イベント
+category: アーカイブ
 ---
 #### 2025年
 

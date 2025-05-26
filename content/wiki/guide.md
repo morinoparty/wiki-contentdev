@@ -3,7 +3,7 @@ date: '2019-11-07T14:25:17.691Z'
 title: 街並み紹介
 slug: guide
 description: ～君色の生活、ここで探そうよ～
-category: 観光、案内
+category: アーカイブ
 image: ../img/2019-11-04_04.59.17.png
 ---
 ## 初めに

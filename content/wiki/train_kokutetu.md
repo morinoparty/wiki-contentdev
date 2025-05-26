@@ -3,7 +3,7 @@ date: '2020-05-01T05:01:13.143Z'
 title: '鉄道案内:国鉄'
 slug: train_kokutetu
 description: 国鉄はサバ民の血税によるクリーンなシステムです。
-category: 観光、案内
+category: アーカイブ
 image: ../img/2020-05-01_14.04.58.png
 ---
 

@@ -3,7 +3,7 @@ date: '2020-05-09T02:15:17.941Z'
 title: '鉄道案内:森元森林鉄道'
 slug: train_hutago1
 description: 広く伸びる森林鉄道
-category: 観光、案内
+category: アーカイブ
 image: ../img/2020-08-24_19.39.36.png
 ---
 # **森元森林鉄道**

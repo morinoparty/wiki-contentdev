@@ -1,7 +1,7 @@
 ---
 title: 釣り大会（毎週金・土20時開催）
 slug: fishing01
-category: イベント
+category: アーカイブ
 description: 釣りのアプデ情報
 image: ../img/つり.png
 ---

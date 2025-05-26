@@ -3,7 +3,7 @@ date: '2025-01-19T14:18:18.600Z'
 title: /trsutコマンドについて
 slug: Howtotrust
 description: 自分の保護の中で他の人に建築の権限をあたえるには…？そして気を付けるべきこと、とは？
-category: チュートリアル
+category: アーカイブ
 image: ../img/2025-01-19_23.27.51.png
 ---
 **2025/1/19　作成**

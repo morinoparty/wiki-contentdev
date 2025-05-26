@@ -3,7 +3,7 @@ date: '2024-02-22T07:40:43.497Z'
 title: 新規の町案内
 slug: seijyu
 description: もりパ！の新しい町「星樹の街」
-category: チュートリアル
+category: アーカイブ
 image: ../img/seijyu.png
 ---
 もりのパーティ！へようこそ！
