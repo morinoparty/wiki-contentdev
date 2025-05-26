@@ -3,7 +3,7 @@ date: '2022-01-30T11:31:50.990Z'
 title: 投票について詳しく！
 slug: vote
 description: 投票に関しての詳しい説明です
-category: archive
+category: zarchive
 image: ../img/1531269b-4312-4b6d-bede-20d51fee33d7.jpg
 ---
 [[toc]]

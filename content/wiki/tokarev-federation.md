@@ -3,7 +3,7 @@ date: '2024-10-03T23:53:49.432Z'
 title: トカレフ連邦
 slug: tokarev-federation
 description: '2024年5月から, トカレフ氏（_Tokarev）により, x3000 z-2000 周辺に誕生した大都市'
-category: archive
+category: zarchive
 image: ../img/tokarev-federation-bank.png
 ---
 

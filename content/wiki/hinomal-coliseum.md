@@ -3,7 +3,7 @@ date: '2022-01-09T16:00:23.739Z'
 title: ひのまるコロシアム
 slug: hinomal-coliseum
 description: ～感じるな、考えろ～
-category: archive
+category: zarchive
 image: ../img/hinomal-coliseum0.png
 ---
 [[toc]]!

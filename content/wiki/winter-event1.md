@@ -3,7 +3,7 @@ date: '2020-04-22T12:48:05.022Z'
 title: 第一回 冬イベント★クリスマス★ ( 2019.12.21 ~ 2019.12.28 )
 slug: winter event1
 description: もりパ！初のクリスマスイベントです(●´ω｀●)
-category: archive
+category: zarchive
 ---
 \
 ＜ディスコード告知文＞

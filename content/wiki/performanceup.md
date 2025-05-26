@@ -3,7 +3,7 @@ date: '2020-11-06T03:36:44.269Z'
 title: 軽量化MODのすゝめ
 slug: performanceup
 description: Minecraftを軽量化する方法を君に伝授するぜ！
-category: archive
+category: zarchive
 ---
 # はじめに
 

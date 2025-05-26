@@ -3,7 +3,7 @@ date: '2023-07-07T06:04:47.723Z'
 title: Nozarasi町のご案内(修復版)
 slug: newnozarasi
 description: 新しくなったNozarasi町のwiki
-category: archive
+category: zarchive
 image: ../img/nozarasi_map.png
 ---
 # N﻿ozarasiとは

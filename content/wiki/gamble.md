@@ -3,7 +3,7 @@ date: '2019-11-05T16:45:23.027Z'
 title: 釣りギャンブル
 slug: gamble
 description: ～普通の遊びで満足できないあなたへ～
-category: archive
+category: zarchive
 ---
 ## 概要
 

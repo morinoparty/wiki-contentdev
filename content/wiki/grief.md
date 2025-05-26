@@ -3,7 +3,7 @@ date: '2020-12-18T16:43:24.094Z'
 title: GriefPrevention
 slug: grief
 description: 自分の土地を正しく管理しよう
-category: archive
+category: zarchive
 ---
 ## 概要
 

@@ -3,7 +3,7 @@ date: '2020-07-01T07:58:26.304Z'
 title: 第4回ボートレース大会 in 夏祭り杯(終了)
 slug: boat-race219jaga
 description: 時期的に夏祭りをやっている地域が多いからこの名前になったよ。じゃが丸くんアイスは作るか知らん。
-category: archive
+category: zarchive
 image: ../img/ボートレース宣伝.png
 ---
 まさか三か月連続になるとは...

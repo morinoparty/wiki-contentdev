@@ -3,7 +3,7 @@ date: '2020-05-20T08:24:18.520Z'
 title: 農林水産建築業協同組合（AFC）「2021年2月1日解散」
 slug: AFC
 description: もりのパーティー内の団体※（もりパ非公式）
-category: archive
+category: zarchive
 image: ../img/2020-05-20_18.30.12.png
 ---
 **AFCとは？**

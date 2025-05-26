@@ -3,7 +3,7 @@ date: '2019-11-07T11:10:15.300Z'
 title: もりパ！カレンダー
 slug: moricare
 description: もりパ！のカレンダーです
-category: archive
+category: zarchive
 image: ../img/もりかれさむね.jpg
 ---
 もりパ！内でのカレンダーです。\

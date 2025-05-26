@@ -3,7 +3,7 @@ date: '2023-09-10T02:10:50.769Z'
 title: ミニイベント一覧
 slug: minievent-1
 description: 専用ページが無い、ちっちゃいイベントをまとめたページです。
-category: archive
+category: zarchive
 ---
 * [今までに開催されたイベント一覧](https://wiki.morino.party/old-event)
 

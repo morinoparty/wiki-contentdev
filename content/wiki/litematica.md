@@ -3,7 +3,7 @@ date: '2020-08-04T10:13:47.842Z'
 title: Litematica導入・使用法
 slug: litematica
 description: Litematicaの導入・使用方法です
-category: archive
+category: zarchive
 ---
 ※ここではOSはWindowsを使用していることを前提に話していきます。Macの方ごめんなさい。わからないんです。
 

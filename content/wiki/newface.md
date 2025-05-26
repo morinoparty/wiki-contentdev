@@ -3,7 +3,7 @@ date: '2019-11-05T13:00:49.361Z'
 title: もりもと案内（旧初期スポ紹介）
 slug: newface
 description: ～森パの歩き方～
-category: archive
+category: zarchive
 ---
 ## ようこそ！
 

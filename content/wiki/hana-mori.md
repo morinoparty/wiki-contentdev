@@ -3,7 +3,7 @@ date: '2020-12-14T08:49:20.392Z'
 title: はなもりの説明
 slug: hana-mori
 description: ～自然と暮らす村～
-category: archive
+category: zarchive
 image: ../img/2020-03-06-3-.png
 ---
 どうもこんにちは、はなもり村長のmori_morikunです。

@@ -2,7 +2,7 @@
 title: もりのパーティ!!!!!!!!　Q&A集（2024年までのアーカイブ）
 slug: faq
 description: 森のパーティをプレイしていて疑問に思うこと･･･ここで解決の手助けになれば良いなっ♪　
-category: archive
+category: zarchive
 ---
 [[toc]]
 

@@ -3,7 +3,7 @@ date: '2020-07-10T09:55:38.324Z'
 title: エリトラレース【終了】
 slug: elytra_race
 description: 2020/8/15開催予定のエリトラレースについてです！
-category: archive
+category: zarchive
 image: ../img/elytra_race.png
 ---
 こんにちは！もりパライフを楽しんでいるみなさんへイベント開催のお知らせです！

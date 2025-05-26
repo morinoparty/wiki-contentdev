@@ -3,7 +3,7 @@ date: '2021-04-20T13:03:28.894Z'
 title: コマンド一覧
 slug: commandlist
 description: コマンドを覚えられないヒトは、このページを”ブックマーク”に追加してね。
-category: archive
+category: zarchive
 ---
 もりのパーティ！で使用可能なコマンド達です。なかよくしてね！
 

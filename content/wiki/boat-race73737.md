@@ -3,7 +3,7 @@ date: '2020-05-09T05:57:01.427Z'
 title: 第3回ボートレース大会誕生日杯(終了)
 slug: boat-race73737
 description: 誕生日にしてはずれていｒ...
-category: archive
+category: zarchive
 image: ../img/ボートレース宣伝.png
 ---
 #### じゃがじゃがぁ......

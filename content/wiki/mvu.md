@@ -3,7 +3,7 @@ date: '2020-03-22T15:01:39.668Z'
 title: 村連合
 slug: MVU
 description: プレイヤーが作った村の連合組織です。
-category: archive
+category: zarchive
 image: ../img/murarengou.png
 ---
 **〇説明**

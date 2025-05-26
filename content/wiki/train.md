@@ -3,7 +3,7 @@ date: '2020-04-26T11:40:37.092Z'
 title: もりぱ路線図
 slug: train
 description: 線路は続くよ
-category: archive
+category: zarchive
 image: ../img/train_header_low.png
 ---
 

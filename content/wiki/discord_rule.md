@@ -3,7 +3,7 @@ date: '2021-05-31T15:53:04.321Z'
 title: Discordの利用について
 slug: Discord_rule
 description: ディスコードチャンネルの利用方法♪
-category: archive
+category: zarchive
 ---
 # Discordの利用の仕方
 

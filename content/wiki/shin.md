@@ -3,7 +3,7 @@ date: '2020-06-17T14:46:00.313Z'
 title: ルージュ王国
 slug: Shin
 description: もりぱの北のほうにある商業都市を目指す田舎町です。
-category: archive
+category: zarchive
 image: ../img/2020-06-17_19.27.25.png
 ---
 ![](/img/2020-06-17_19.27.25.png)

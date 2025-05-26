@@ -3,7 +3,7 @@ date: '2022-01-28T11:45:19.318Z'
 title: ガチャガチャについて
 slug: CapsuleToy
 description: ガチャガチャの説明です
-category: archive
+category: zarchive
 image: ../img/gatya-houhou1.png
 ---
 [[toc]]

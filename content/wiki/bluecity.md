@@ -3,7 +3,7 @@ date: '2025-04-08T12:03:52.675Z'
 title: Blue Cityの紹介
 slug: bluecity
 description: 神森にできた新しい街の紹介。実はちょっと前からできてる
-category: archive
+category: zarchive
 image: ../img/blue-cityできたてほやほや.png
 ---
 2024年最後のほうにできた街。実はちょっと前からできていて、カジノができるちょっと珍しい街。まだ人は少ないので是非来てくれるとありがたい!(^^)!

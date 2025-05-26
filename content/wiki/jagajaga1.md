@@ -3,7 +3,7 @@ date: '2020-11-06T15:45:56.759Z'
 title: 第一回　じゃがつく！
 slug: jagajaga1
 description: 「じゃがおじと畑を作ろう！」略して「じゃがつく！」
-category: archive
+category: zarchive
 image: ../img/2020-11-07_00.14.00.png
 ---
 **【朗報】** じゃがおじ、エンドを畑にする！

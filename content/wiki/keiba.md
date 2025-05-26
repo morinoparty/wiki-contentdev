@@ -3,7 +3,7 @@ date: '2021-08-21T17:19:51.234Z'
 title: もりぱ競馬「モリンクルシリーズ」
 slug: keiba
 description: もりぱに競馬がやってくる！
-category: archive
+category: zarchive
 image: ../img/keibajo.png
 ---
 ## もりぱ競馬「モリンクルシリーズ™」開催のお知らせ
