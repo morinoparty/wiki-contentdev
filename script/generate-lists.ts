@@ -10,6 +10,7 @@ const CONTENT_DIR = path.join(__dirname, "../content");
 const IMAGES_DIR = path.join(CONTENT_DIR, "img");
 const CATEGORIES_DIR = path.join(CONTENT_DIR, "categories");
 const WIKI_DIR = path.join(CONTENT_DIR, "wiki");
+const USERS_DIR = path.join(CONTENT_DIR, "users");
 
 async function generateImagesList() {
   // ディレクトリがなければ作成
@@ -82,10 +83,27 @@ async function generateWikiList() {
   );
 }
 
+async function generateUsersList() {
+  const files = await fs.readdir(USERS_DIR);
+  const users: any[] = [];
+  for (const file of files) {
+    if (!file.endsWith(".json")) continue;
+    const userId = path.basename(file, ".json");
+    const data = await fs.readFile(path.join(USERS_DIR, file), "utf-8");
+    const user = JSON.parse(data);
+    users.push({ id: userId, ...user });
+  }
+  await fs.writeFile(
+    path.join(CONTENT_DIR, "users.json"),
+    JSON.stringify(users, null, 2)
+  );
+}
+
 async function main() {
   await generateImagesList();
   await generateCategoriesList();
   await generateWikiList();
+  await generateUsersList();
   console.log("リスト生成が完了しました");
 }
 

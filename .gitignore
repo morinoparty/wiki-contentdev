@@ -35,3 +35,4 @@ lerna-debug.log*
 /content/categories.json
 /content/images.json
 /content/wiki.json
+/content/users.json
