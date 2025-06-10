@@ -1,17 +1,17 @@
 ---
-title: A
+title: 沈黙を許さない。もりのパーティの新しい釣り
 slug: a
 category: magazine
-description: A
+description: ずっと、みんな
 image: ''
 createdAt: '2025-06-02T13:07:42.692Z'
-updatedAt: '2025-06-02T13:07:42.692Z'
+updatedAt: '2025-06-10T12:36:10.445Z'
 createdBy: 75ba1a8c-4e02-4b4b-abe3-92ef4af6147c
 documentOwner: 75ba1a8c-4e02-4b4b-abe3-92ef4af6147c
 lastModifiedBy: 75ba1a8c-4e02-4b4b-abe3-92ef4af6147c
 status: draft
 visibility: public
-version: 1
+version: 2
 isLocked: false
 ---
-A
+HEY！みんな！これだぜ。
